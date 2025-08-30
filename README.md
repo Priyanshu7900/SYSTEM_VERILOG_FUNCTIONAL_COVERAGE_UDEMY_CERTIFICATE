@@ -5,5 +5,5 @@ I have successfully completed the “Introduction to SystemVerilog Functional Co
 
 <img width="1882" height="916" alt="Screenshot 2025-08-30 190948" src="https://github.com/user-attachments/assets/056b68ec-31d3-4e9a-93bb-3d0d6cacc17c" />
 
-**Course Link:** [Udemy - SystemVerilog Assertions for Newbie]((https://www.udemy.com/course/systemverilog-functional-coverage-for-newbie/)) 
+**Course Link:** [Udemy - SystemVerilog Functional Coverage for Newbie]((https://www.udemy.com/course/systemverilog-functional-coverage-for-newbie/)) 
 
